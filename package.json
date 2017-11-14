@@ -1,21 +1,17 @@
 {
-  "name": "tomatimer",
-  "main": "./lib/tomatimer",
+  "name": "Tiny-Timer",
+  "main": "./lib/Tiny-Timer",
   "version": "1.2.3",
-  "description": "A loose and straightforward pomodoro timer.",
+  "description": "A loose and straightforward timer based on tomatimer.",
   "keywords": [
-    "pomodoro",
-    "tomato timer",
-    "tomato",
     "timer"
   ],
   "activationCommands": {
-    "atom-workspace": "tomatimer:start"
+    "atom-workspace": "Tiny-Timer:start"
   },
   "standard": {
     "globals": [
       "atom",
-      "Audio",
       "describe",
       "beforeEach",
       "afterEach",
@@ -24,7 +20,7 @@
       "window"
     ]
   },
-  "repository": "https://github.com/Yu1989/atom-tomatimer",
+  "repository": "https://github.com/igrad/atom-tomatimer",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
