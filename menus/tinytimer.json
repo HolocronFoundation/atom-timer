@@ -2,19 +2,19 @@
   "menu": [{
     "label": "Packages",
     "submenu": [{
-      "label": "Tiny-Timer",
+      "label": "tinytimer",
       "submenu": [{
         "label": "Start",
-        "command": "Tiny-Timer:start"
+        "command": "tinytimer:start"
       }, {
         "label": "Stop",
-        "command": "Tiny-Timer:stop"
+        "command": "tinytimer:stop"
       }, {
         "label": "Reset",
-        "command": "Tiny-Timer:reset"
+        "command": "tinytimer:reset"
       }, {
         "label": "Pause Or Resume",
-        "command": "Tiny-Timer:pause-or-resume"
+        "command": "tinytimer:pause-or-resume"
       }]
     }]
   }]

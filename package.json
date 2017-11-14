@@ -1,13 +1,13 @@
 {
-  "name": "Tiny-Timer",
-  "main": "./lib/Tiny-Timer",
-  "version": "1.2.3",
+  "name": "tinytimer",
+  "main": "./lib/tinytimer",
+  "version": "1.0.0",
   "description": "A loose and straightforward timer based on tomatimer.",
   "keywords": [
     "timer"
   ],
   "activationCommands": {
-    "atom-workspace": "Tiny-Timer:start"
+    "atom-workspace": "tinytimer:start"
   },
   "standard": {
     "globals": [
@@ -26,7 +26,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "lodash": "^4.12.0"
+    "lodash": "^4.17.4"
   },
   "consumedServices": {
     "status-bar": {
