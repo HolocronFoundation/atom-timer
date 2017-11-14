@@ -1,7 +1,7 @@
 {
   "name": "tinytimer",
   "main": "./lib/tinytimer",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "A loose and straightforward timer based on tomatimer.",
   "keywords": [
     "timer"
