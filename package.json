@@ -1,39 +1,41 @@
 {
-   "name": "tinytimer",
-   "main": "./lib/tinytimer",
-   "version": "2.1.0",
-   "description": "A tiny timer to track your time spent on a given task.",
-   "keywords": [
-      "timer"
-   ],
-   "activationCommands": {
-      "atom-workspace": "tinytimer:start"
-   },
-   "activationHooks": ["core:loaded-shell-environment"],
-   "standard": {
-      "globals": [
-         "atom",
-         "describe",
-         "beforeEach",
-         "afterEach",
-         "it",
-         "expect",
-         "window"
-      ]
-   },
-   "repository": "https://github.com/igrad/atom-tomatimer",
-   "license": "MIT",
-   "engines": {
-      "atom": ">=1.0.0 <2.0.0"
-   },
-   "dependencies": {
-      "lodash": "^4.17.4"
-   },
-   "consumedServices": {
-      "status-bar": {
-         "versions": {
-            "^1.0.0": "consumeStatusBar"
-         }
+  "name": "tinytimer",
+  "main": "./lib/tinytimer",
+  "version": "2.2.0",
+  "description": "A tiny timer to track your time spent on a given task.",
+  "keywords": [
+    "timer"
+  ],
+  "activationCommands": {
+    "atom-workspace": "tinytimer:start"
+  },
+  "activationHooks": [
+    "core:loaded-shell-environment"
+  ],
+  "standard": {
+    "globals": [
+      "atom",
+      "describe",
+      "beforeEach",
+      "afterEach",
+      "it",
+      "expect",
+      "window"
+    ]
+  },
+  "repository": "https://github.com/igrad/atom-tomatimer",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
       }
-   }
+    }
+  }
 }
