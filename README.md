@@ -17,7 +17,7 @@ $ apm install tinytimer
   - `timer: Stop` Stop Timer.
   - `timer: Reset` Restart current session.
   - `timer: Pause Or Resume` Pause or resume current session.
-    - Typing in Atom automatically resumes the timer.
+    - You can enable an option to automatically resume the timer when typing.
 - Once started, look for a timer on status bar, that consists of an hourglass icon and a time.
   - Click icon to view your Timer historical stats.
   - Click time to pause/resume current session.
