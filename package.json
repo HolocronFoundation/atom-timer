@@ -1,7 +1,7 @@
 {
   "name": "timer",
   "main": "./lib/timer",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A timer to track your time spent on a given task.",
   "keywords": [
     "timer"
