@@ -17,7 +17,7 @@ describe('Time formatters', function () {
 
   describe('formatSeconds()', function () {
     it('should return a string in form of mm:ss', function () {
-      expect(formatSeconds(71)).toEqual('01:11')
+      expect(formatSeconds(3671)).toEqual('01:01:11')
     })
   })
 })
