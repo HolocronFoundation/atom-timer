@@ -33,3 +33,6 @@ $ apm install timer
 - Add option to enable/disable play/pause button
 - Make play/pause button clickable
 - Add screenshot to readme
+- Cause the command start to start the timer when paused
+- Replace start default shortcut with one which does not overlap with the linux terminal command
+- Squashing bugs
