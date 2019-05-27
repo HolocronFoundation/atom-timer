@@ -8,7 +8,7 @@ A basic timer for [Atom](https://atom.io), based on igrad's [fork](https://githu
 
 ## Install
 ```
-$ apm install tinytimer
+$ apm install timer
 ```
 
 ## Usage
