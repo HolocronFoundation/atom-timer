@@ -1,4 +1,6 @@
-Copyright (c) 2016 Yu Jiang
+Copyright (c) for portions of timer are held by Yu Jiang, 2016, as part of
+tomatimer, and Ian Gradert, 2017 as a part of TinyTimer. All other copyright for
+timer are held by Samuel Troper, 2019.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

@@ -1,8 +1,0 @@
-{
-  "atom-workspace": {
-    "alt-ctrl-t": "tinytimer:start",
-    "alt-ctrl-s": "tinytimer:stop",
-    "alt-ctrl-p": "tinytimer:pause-or-resume",
-    "alt-ctrl-r": "tinytimer:reset"
-  }
-}

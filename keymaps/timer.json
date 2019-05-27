@@ -1,0 +1,8 @@
+{
+  "atom-workspace": {
+    "alt-ctrl-t": "timer:start",
+    "alt-ctrl-s": "timer:stop",
+    "alt-ctrl-p": "timer:pause-or-resume",
+    "alt-ctrl-r": "timer:reset"
+  }
+}

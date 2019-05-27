@@ -1,13 +1,13 @@
 {
-  "name": "tinytimer",
-  "main": "./lib/tinytimer",
-  "version": "2.2.0",
+  "name": "timer",
+  "main": "./lib/timer",
+  "version": "0.0.0",
   "description": "A timer to track your time spent on a given task.",
   "keywords": [
     "timer"
   ],
   "activationCommands": {
-    "atom-workspace": "tinytimer:start"
+    "atom-workspace": "timer:start"
   },
   "activationHooks": [
     "core:loaded-shell-environment"
