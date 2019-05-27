@@ -27,3 +27,9 @@ $ apm install timer
 - <kbd>ctrl-alt-s</kbd> `timer: Stop`
 - <kbd>ctrl-alt-r</kbd> `timer: Reset`
 - <kbd>ctrl-alt-p</kbd> `timer: Pause Or Resume`
+
+## Future plans (TODO)
+- Rework stats
+- Add option to enable/disable play/pause button
+- Make play/pause button clickable
+- Add screenshot to readme
