@@ -1,9 +1,9 @@
-# Tiny Timer
+# Timer
 [![apm version](https://img.shields.io/apm/v/tinytimer.svg?style=flat-square)](https://atom.io/packages/tinytimer)
 [![Build Status](https://travis-ci.org/igrad/atom-tomatimer.svg?branch=master)](https://travis-ci.org/igrad/atom-tomatimer)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com/)
 
-A loose and straightforward timer for [Atom](https://atom.io), based on Yu1989's [tomatimer](https://github.com/Yu1989/atom-tomatimer).
+A loose and straightforward timer for [Atom](https://atom.io), based on igrad's [fork](https://github.com/igrad/atom-tomatimer) of Yu1989's [tomatimer](https://github.com/Yu1989/atom-tomatimer).
 
 
 ## Install
