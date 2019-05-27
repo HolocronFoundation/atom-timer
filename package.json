@@ -2,7 +2,7 @@
   "name": "tinytimer",
   "main": "./lib/tinytimer",
   "version": "2.2.0",
-  "description": "A tiny timer to track your time spent on a given task.",
+  "description": "A timer to track your time spent on a given task.",
   "keywords": [
     "timer"
   ],
@@ -23,7 +23,7 @@
       "window"
     ]
   },
-  "repository": "https://github.com/igrad/atom-tomatimer",
+  "repository": "https://github.com/HolocronFoundation/atom-timer",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
