@@ -1,6 +1,6 @@
 'use babel'
 
-import Timer from '../lib/timer'
+import Timer from '../lib/timer-util'
 
 describe('Timer', function () {
   let timer
