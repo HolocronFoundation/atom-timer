@@ -36,3 +36,4 @@ $ apm install timer
 - Cause the command start to start the timer when paused
 - Replace start default shortcut with one which does not overlap with the linux terminal command
 - Squashing bugs
+  - Resetting timer does not work properly when paused - results in a speed up

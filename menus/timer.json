@@ -4,17 +4,14 @@
     "submenu": [{
       "label": "timer",
       "submenu": [{
-        "label": "Start",
-        "command": "timer:start"
+        "label": "Start/pause",
+        "command": "timer:start/pause"
       }, {
         "label": "Stop",
         "command": "timer:stop"
       }, {
         "label": "Reset",
         "command": "timer:reset"
-      }, {
-        "label": "Pause Or Resume",
-        "command": "timer:pause-or-resume"
       }]
     }]
   }]
